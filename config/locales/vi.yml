@@ -1,0 +1,25 @@
+vi:
+  hello: "Xin chao"
+  sample: "Ung dung mau"
+  this: "Day la trang chu"
+  sam: "cho ung dung mau"
+  help: "Tro giup"
+  get: "Tro giup ve Ruby on Rails tai"
+  to: "De duoc tro giup them, xem tai "
+  contact: "Lien he"
+  contactruby: "Liên hệ với Ruby on Rails Tutorial về ứng dụng mẫu tại "
+  about: "Thong tin"
+  is: "la"
+  book: "cuon sach"
+  and: "la"
+  series: "man hinh thu hang loat"
+  to: "de day va phat trien web"
+  thisis: "Đây là ứng dụng mẫu cho hướng dẫn."
+  title: "Ung dung mau ve Ruby on Rails Tutorial"
+  eng: "Tieng anh"
+  viet: "Tieng viet"
+  ror_tut: "Huong dan ruby on rails"
+  about_content: " %{rails_tut_link}
+    la mot %{rails_book_link}  va %{screen_cast_rails}
+    huong dan lap trinh va phat trien web voi %{RoR_link}.
+    Day la vi du mau cho tutorial."
