@@ -1,7 +1,14 @@
 <% provide(:title, "Home") %>
-<h1><%= t "sample" %></h1>
-<p>
-  <%=t"this"%>
-  <%= link_to t("title"), Settings.linkrails %>
-  <%=t"sam"%>
-</p>
+<div class="center jumbotron">
+  <h1><%= t"wc"%></h1>
+
+  <h2>
+    <%= raw t("this", ruby_tut_link: link_to("Ruby on Rails", Settings.linkrails)
+    ) %>
+  </h2>
+
+  <%= link_to t("signup"), signup_path, class: "btn btn-lg btn-primary" %>
+</div>
+
+ <%= link_to image_tag("rails.png", alt: "Rails logo"),
+            Settings.ror_link %>

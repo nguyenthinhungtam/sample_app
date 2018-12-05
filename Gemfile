@@ -3,6 +3,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "2.5.1"
 
+source 'https://rubygems.org'
+
+
+gem 'bootstrap-sass', '3.3.7'
 
 gem "rails", "~> 5.2.1", ">= 5.2.1.1"
 gem "sqlite3"

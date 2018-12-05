@@ -1,8 +1,7 @@
 en:
   hello: "Hello world"
   sample: "Sample App"
-  this: "This is the home page for the"
-  sam: "sample application"
+  this: "This is the home page for the %{ruby_tut_link} sample application"
   help: "Help"
   get: "Get help on the Ruby on Rails Tutorial at the"
   to: "To get help on this sample app, see the"
@@ -24,3 +23,8 @@ en:
     and %{screen_cast_rails}
     to teach web development with %{RoR_link}.
     This is the sample application for the tutorial."
+  wc: "Welcome to the Sample App"
+  new: "News"
+  signup: "Sign up now!"
+  signup_content: "This will be a signup page for new users."
+  sign: "Sign up"
