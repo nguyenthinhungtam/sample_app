@@ -1,8 +1,7 @@
 vi:
   hello: "Xin chao"
   sample: "Ung dung mau"
-  this: "Day la trang chu"
-  sam: "cho ung dung mau"
+  this: "Day la trang chu cua %{ruby_tut_link} cho ung dung mau"
   help: "Tro giup"
   get: "Tro giup ve Ruby on Rails tai"
   to: "De duoc tro giup them, xem tai "
@@ -23,3 +22,8 @@ vi:
     la mot %{rails_book_link}  va %{screen_cast_rails}
     huong dan lap trinh va phat trien web voi %{RoR_link}.
     Day la vi du mau cho tutorial."
+  wc: "Chao mung den voi ung dung mau"
+  new: "Tin tuc"
+  signup: "Dang ky ngay!"
+  signup_content: "Day la trang dang ky cho nguoi dung moi"
+  sign: "Dang ky"
